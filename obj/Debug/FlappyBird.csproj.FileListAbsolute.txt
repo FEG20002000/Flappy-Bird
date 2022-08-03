@@ -1,0 +1,46 @@
+C:\Users\PC1\Desktop\FEG Solutions\Flappy Bird\FlappyBird\bin\Debug\FlappyBird.exe.config
+C:\Users\PC1\Desktop\FEG Solutions\Flappy Bird\FlappyBird\bin\Debug\FlappyBird.exe
+C:\Users\PC1\Desktop\FEG Solutions\Flappy Bird\FlappyBird\bin\Debug\FlappyBird.pdb
+C:\Users\PC1\Desktop\FEG Solutions\Flappy Bird\FlappyBird\obj\Debug\FlappyBird.csproj.AssemblyReference.cache
+C:\Users\PC1\Desktop\FEG Solutions\Flappy Bird\FlappyBird\obj\Debug\MainWindow.g.cs
+C:\Users\PC1\Desktop\FEG Solutions\Flappy Bird\FlappyBird\obj\Debug\App.g.cs
+C:\Users\PC1\Desktop\FEG Solutions\Flappy Bird\FlappyBird\obj\Debug\FlappyBird_MarkupCompile.cache
+C:\Users\PC1\Desktop\FEG Solutions\Flappy Bird\FlappyBird\obj\Debug\FlappyBird_MarkupCompile.lref
+C:\Users\PC1\Desktop\FEG Solutions\Flappy Bird\FlappyBird\obj\Debug\MainWindow.baml
+C:\Users\PC1\Desktop\FEG Solutions\Flappy Bird\FlappyBird\obj\Debug\FlappyBird.g.resources
+C:\Users\PC1\Desktop\FEG Solutions\Flappy Bird\FlappyBird\obj\Debug\FlappyBird.Properties.Resources.resources
+C:\Users\PC1\Desktop\FEG Solutions\Flappy Bird\FlappyBird\obj\Debug\FlappyBird.csproj.GenerateResource.cache
+C:\Users\PC1\Desktop\FEG Solutions\Flappy Bird\FlappyBird\obj\Debug\FlappyBird.csproj.CoreCompileInputs.cache
+C:\Users\PC1\Desktop\FEG Solutions\Flappy Bird\FlappyBird\obj\Debug\FlappyBird.exe
+C:\Users\PC1\Desktop\FEG Solutions\Flappy Bird\FlappyBird\obj\Debug\FlappyBird.pdb
+C:\Users\PC1\Desktop\FEGSolutions\Flappy Bird\FlappyBird\bin\Debug\FlappyBird.exe.config
+C:\Users\PC1\Desktop\FEGSolutions\Flappy Bird\FlappyBird\bin\Debug\FlappyBird.exe
+C:\Users\PC1\Desktop\FEGSolutions\Flappy Bird\FlappyBird\bin\Debug\FlappyBird.pdb
+C:\Users\PC1\Desktop\FEGSolutions\Flappy Bird\FlappyBird\obj\Debug\FlappyBird.csproj.AssemblyReference.cache
+C:\Users\PC1\Desktop\FEGSolutions\Flappy Bird\FlappyBird\obj\Debug\MainWindow.g.cs
+C:\Users\PC1\Desktop\FEGSolutions\Flappy Bird\FlappyBird\obj\Debug\App.g.cs
+C:\Users\PC1\Desktop\FEGSolutions\Flappy Bird\FlappyBird\obj\Debug\FlappyBird_MarkupCompile.cache
+C:\Users\PC1\Desktop\FEGSolutions\Flappy Bird\FlappyBird\obj\Debug\FlappyBird_MarkupCompile.lref
+C:\Users\PC1\Desktop\FEGSolutions\Flappy Bird\FlappyBird\obj\Debug\MainWindow.baml
+C:\Users\PC1\Desktop\FEGSolutions\Flappy Bird\FlappyBird\obj\Debug\FlappyBird.g.resources
+C:\Users\PC1\Desktop\FEGSolutions\Flappy Bird\FlappyBird\obj\Debug\FlappyBird.Properties.Resources.resources
+C:\Users\PC1\Desktop\FEGSolutions\Flappy Bird\FlappyBird\obj\Debug\FlappyBird.csproj.GenerateResource.cache
+C:\Users\PC1\Desktop\FEGSolutions\Flappy Bird\FlappyBird\obj\Debug\FlappyBird.csproj.CoreCompileInputs.cache
+C:\Users\PC1\Desktop\FEGSolutions\Flappy Bird\FlappyBird\obj\Debug\FlappyBird.exe
+C:\Users\PC1\Desktop\FEGSolutions\Flappy Bird\FlappyBird\obj\Debug\FlappyBird.pdb
+C:\Users\fletc\Desktop\FEGSolutions\Flappy Bird\FlappyBird\bin\Debug\FlappyBird.exe.config
+C:\Users\fletc\Desktop\FEGSolutions\Flappy Bird\FlappyBird\bin\Debug\FlappyBird.exe
+C:\Users\fletc\Desktop\FEGSolutions\Flappy Bird\FlappyBird\bin\Debug\FlappyBird.pdb
+C:\Users\fletc\Desktop\FEGSolutions\Flappy Bird\FlappyBird\obj\Debug\FlappyBird.csproj.AssemblyReference.cache
+C:\Users\fletc\Desktop\FEGSolutions\Flappy Bird\FlappyBird\obj\Debug\FlappyBird.csproj.SuggestedBindingRedirects.cache
+C:\Users\fletc\Desktop\FEGSolutions\Flappy Bird\FlappyBird\obj\Debug\MainWindow.g.cs
+C:\Users\fletc\Desktop\FEGSolutions\Flappy Bird\FlappyBird\obj\Debug\App.g.cs
+C:\Users\fletc\Desktop\FEGSolutions\Flappy Bird\FlappyBird\obj\Debug\FlappyBird_MarkupCompile.cache
+C:\Users\fletc\Desktop\FEGSolutions\Flappy Bird\FlappyBird\obj\Debug\FlappyBird_MarkupCompile.lref
+C:\Users\fletc\Desktop\FEGSolutions\Flappy Bird\FlappyBird\obj\Debug\MainWindow.baml
+C:\Users\fletc\Desktop\FEGSolutions\Flappy Bird\FlappyBird\obj\Debug\FlappyBird.g.resources
+C:\Users\fletc\Desktop\FEGSolutions\Flappy Bird\FlappyBird\obj\Debug\FlappyBird.Properties.Resources.resources
+C:\Users\fletc\Desktop\FEGSolutions\Flappy Bird\FlappyBird\obj\Debug\FlappyBird.csproj.GenerateResource.cache
+C:\Users\fletc\Desktop\FEGSolutions\Flappy Bird\FlappyBird\obj\Debug\FlappyBird.csproj.CoreCompileInputs.cache
+C:\Users\fletc\Desktop\FEGSolutions\Flappy Bird\FlappyBird\obj\Debug\FlappyBird.exe
+C:\Users\fletc\Desktop\FEGSolutions\Flappy Bird\FlappyBird\obj\Debug\FlappyBird.pdb
